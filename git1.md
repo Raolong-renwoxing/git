@@ -129,7 +129,7 @@ git config --global user.name "用户名"
 
 ```
 # 将我们的远程地址加一个别名
-git remot add origin https://xxxx
+git remote add origin https://xxxx
 # 从本地推送到远端仓库地址
 git push -u origin 需要推送的分支名称
 ```
